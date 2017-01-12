@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/ClientCommunication/SocketClient.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/ClientCommunication/Listen.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/User.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/Player.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/test/LogicClient/BoardTest.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/GUI/UIinicial.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/Ranks.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/ClientCommunication/ClientProtocol.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/GUI/SpectatorUI.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/Board.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/Ship.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/GUI/ColorChooser.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/GUI/GameUI.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/MD5_hash.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/Game.java</file>
+            <file>file:/C:/Users/Francisco/Documents/GitHub/lpro/Client_final/src/LogicClient/MainClass.java</file>
+        </group>
+    </open-files>
+</project-private>
